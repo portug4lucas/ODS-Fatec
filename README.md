@@ -75,9 +75,5 @@ ODS-Fatec/
 
 ---
 
-## 🌍 Sobre os ODS
 
-Os 17 Objetivos de Desenvolvimento Sustentável fazem parte da Agenda 2030 da ONU, um plano global para erradicar a pobreza, proteger o planeta e garantir prosperidade para todos. Saiba mais em [odsbrasil.gov.br](https://odsbrasil.gov.br/).
-
----
 
