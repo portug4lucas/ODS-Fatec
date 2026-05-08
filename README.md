@@ -1,26 +1,83 @@
 # ODS — Objetivos de Desenvolvimento Sustentável
-Trabalho acadêmico — FATEC Jacareí | 1º DSM — 2026
 
-## Sobre o projeto
+Trabalho acadêmico desenvolvido na **FATEC Jacareí** | 1º DSM — 2026
+
 Site informativo sobre os 17 Objetivos de Desenvolvimento Sustentável da Agenda 2030 da ONU.
 
-## Tecnologias utilizadas
-- HTML
-- CSS
-- JavaScript
-- Node.js
-- Express
+---
 
-## Como rodar o projeto
+## 📋 Pré-requisitos
 
-### Instalar dependências
+Antes de rodar o projeto, você precisa ter instalado:
+
+- [Node.js](https://nodejs.org/) (versão 18 ou superior)
+- npm (já vem junto com o Node.js)
+
+Para verificar se já estão instalados:
+
+```bash
+node -v
+npm -v
+```
+
+---
+
+## 🚀 Instalação
+
+### 1. Clone o repositório
+
+```bash
+git clone https://github.com/portug4lucas/ODS-Fatec.git
+cd ODS-Fatec
+```
+
+### 2. Instale as dependências
+
 ```bash
 npm install
 ```
 
-### Rodar o servidor
+---
+
+## ▶️ Como rodar
+
+### Iniciar o servidor
+
 ```bash
 npm start
 ```
 
-Acesse: http://localhost:3000
+Acesse no navegador: [http://localhost:3000](http://localhost:3000)
+
+---
+
+## 📁 Estrutura do projeto
+
+```
+ODS-Fatec/
+├── public/         # Arquivos estáticos (HTML, CSS, JS)
+├── src/            # Código fonte do servidor
+├── package.json
+└── README.md
+```
+
+---
+
+## 🛠️ Tecnologias
+
+| Tecnologia | Uso |
+|---|---|
+| [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML) | Estrutura das páginas |
+| [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS) | Estilização |
+| [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) | Interatividade |
+| [Node.js](https://nodejs.org/) | Ambiente de execução |
+| [Express](https://expressjs.com/) | Servidor web |
+
+---
+
+## 🌍 Sobre os ODS
+
+Os 17 Objetivos de Desenvolvimento Sustentável fazem parte da Agenda 2030 da ONU, um plano global para erradicar a pobreza, proteger o planeta e garantir prosperidade para todos. Saiba mais em [odsbrasil.gov.br](https://odsbrasil.gov.br/).
+
+---
+
